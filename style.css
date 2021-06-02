@@ -1,0 +1,23 @@
+img{
+  width:30%;
+    border-radius=50%;
+}
+body{
+  text-align:center;
+  background:linear-gradient(#3240a8 0%,#7832ab 100%);
+  background-repeat:no repeat;
+}
+h1{
+  text-shadow:2px 2px #F8BBDO;
+  font-size:20px;
+}
+p{
+  font-size:18px;
+  color:#3657eb;
+}
+.line{
+  height:6px;
+  background-color:blue;
+  width:100px;
+  margin:8px auto;
+}
